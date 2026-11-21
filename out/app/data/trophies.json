@@ -1,0 +1,878 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "note": "Guides are original text written for this entry. They draw on the official PlayStation descriptions and the community guides named in each trophy's 'sources'; no guide text is copied from any source.",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "kind": "completion",
+   "missable": false,
+   "hidden": false,
+   "roadmap_stage": 6,
+   "guide": "The platinum pops automatically once the other 54 trophies are earned. The set is single-player only — there are no online trophies and no DLC required — so one playthrough plus free-roam cleanup is the whole job. Only one thing in the game can be missed (a Chapter 1 meditation), so plan the cleanup, not the platinum. Source: PowerPyx trophy guide (no online trophies).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": false,
+   "chapter": 1,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. 'Gone Fishing' is the opening main mission of Chapter 1 and the trophy unlocks the moment it ends. Source: PowerPyx (automatic story trophy).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 1,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. Chapter 1 is counted complete the instant you begin the first main mission of Chapter 2, so it unlocks naturally as the story moves on. Source: PowerPyx (unlocks on starting Chapter 2).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 2,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. It unlocks as Chapter 2 ends and Chapter 3 begins. Source: PowerPyx (unlocks on starting Chapter 3).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 3,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. It unlocks once you complete the first two main missions of Chapter 4. Source: PowerPyx (unlocks early in Chapter 4).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. Chapter 4 closes with the main mission 'Starting From Zero', which awards this trophy. Source: PowerPyx (Chapter 4 finale).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 5,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable, and one of only two golds on the list. The story runs five chapters and the Chapter 5 finale awards this. Free-roam continues after the credits, so nothing ends here. Source: PowerPyx (final mission, Chapter 5).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 2,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. 'Breakfast Run' is a main mission during Chapter 2. Source: PowerPyx (Chapter 2 main mission).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 3,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. 'The Cartel Heist' is a main mission during Chapter 3. Source: PowerPyx (Chapter 3 main mission).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. 'Child's Play' is a Chapter 4 main mission — the one where you rescue Rafa from kidnappers. Source: PowerPyx (Chapter 4, rescue Rafa).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. 'Headliners' is a Chapter 4 main mission about helping with a launch party. Source: PowerPyx (Chapter 4 main mission).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 4,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. 'VCIA Takedown' is a main mission during Chapter 4. Source: PowerPyx (Chapter 4 main mission).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "chapter": 5,
+   "roadmap_stage": 1,
+   "guide": "Story trophy, unmissable. 'Operation Savage Glory' is a main mission during Chapter 5. Source: PowerPyx (Chapter 5 main mission).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "kind": "completion",
+   "missable": false,
+   "hidden": false,
+   "roadmap_stage": 5,
+   "guide": "The biggest grind on the list and the last stop before the platinum. After the credits, open Progress → Stats → 100% Completion: a 35-entry checklist that is closer to 60% of the game's true content. Nothing on it is missable — whatever you skipped in the story can still be done in free-roam. Highlights: 100 optional tasks, all 39 gang operations, all 8 bank vaults, all 42 shooting-range golds, all 42 drone trials, all 15 of Bret's target decks, 300 of 397 stunts, 70 of 80 challenges, 200 of 277 base-model vehicles scanned, 100 of 255 animals studied, 15 of 18 meditations. Most collectible types aren't required at all, and of the ones that are you usually need only 70–80%. Source: PowerPyx 100% completion checklist guide; Leonida Interactive (35 entries, partial targets).",
+   "sources": [
+    "PowerPyx 100% completion guide",
+    "Leonida Interactive completion guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "kind": "collectible",
+   "missable": false,
+   "hidden": false,
+   "count": "250 of 397 stunts",
+   "roadmap_stage": 3,
+   "guide": "Complete any 250 of the 397 stunts — the four categories mix freely: 130 stunt jumps, 202 under-the-bridge flights, 40 knife flights and 25 base jumps. Under-the-bridges are the quickest by far if you want to rush it. Track progress by region under Progress → Activities → Stunts, or by name on the map (Exploration → Stunt Spots); completed stunts stay marked. The 100% checklist asks for 300, so you will pass 250 on the way there anyway. Source: PowerPyx stunt guide (397 stunts, 4 categories, 300 needed for 100%).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "count": "9 activity types",
+   "roadmap_stage": 3,
+   "guide": "Do each of the 9 activity types at least once: fishing, hunting, golf, shooting ranges, pool, basketball (scoring hoops), playing a video game, winning a car race / race challenge / Top Fun drone race, and performing a stunt. The story introduces most of them; the rest appear as you unfog the map (filter the map by Activities, blue dumbbell icon). In practice you will hit all nine without trying while working on the other trophies. Source: PowerPyx (9 activity types listed).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "count": "42 gold medals across 12 ranges",
+   "roadmap_stage": 3,
+   "guide": "Gold-medal all 42 shooting-range challenges spread over 12 ranges. Every range session also levels your Focus stat, which makes Gunslinger much easier — do these before that. All 42 golds are also required for 100% completion, so this is not optional work on the road to the platinum. Source: PowerPyx (12 ranges, 42 gold medals).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "count": "14 locations, 42 races",
+   "roadmap_stage": 3,
+   "guide": "Win a drone race at each of the 14 Top Fun venues — 42 races in total. All 42 time trials are also required for the 100% checklist, so this comes naturally on the way to A Long Road. Source: PowerPyx (14 locations, 42 drone races).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "count": "20 of 40 races",
+   "roadmap_stage": 3,
+   "guide": "Place first in 20 distinct races. There are 40 unique race locations, so pick the ones you like. The 100% checklist needs 30 race wins, so 20 wins will happen on the way. Source: PowerPyx (40 unique race locations).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "roadmap_stage": 3,
+   "guide": "After the Chapter 1 main mission 'Feng Shui' (where you meet Cal), he sends a text that marks a fishing spot west of Key Lento. Head there and complete the challenge to outfish him. Source: PowerPyx (trigger: Cal's text after 'Feng Shui').",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "count": "4 arcade games",
+   "roadmap_stage": 3,
+   "guide": "Finish all levels of any one arcade game (in-game: 'Video Games'). Four exist — Tenebrae Lux, Street Trash III and Time Jackers Rewind are playable on the TV at home from Chapter 1; Bang For Your Buck sits in arcade machines around the world. You only need to reach the end of one game, not beat its challenge modes, so pick whichever you enjoy. Source: PowerPyx (4 games, home TV + arcade machines).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 2,
+   "guide": "Finish Andy's five-quest strand. The strand is Lucia-only — during Chapter 3, playing as Lucia, she gets a call from Andy and a text with his address in Belville, which marks the questline. Everything remains available after the story. Source: PowerPyx (Andy questline, 5 quests, Lucia-only, Chapter 3).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 2,
+   "guide": "Finish Kenton's treasure-diving strand: he marks shipwrecks on the map, you dive for them with the metal detector and bring the loot back to his shop (green 'KR' icon in Key Lento) — 7 shipwrecks in total. He is introduced during Chapter 1 and becomes temporarily unavailable after it, but he returns in Chapter 2–3 (calling Brian as Jason speeds this up), so he is NOT missable. Track under Progress → Characters → Kenton Rees. Source: PowerPyx (7 shipwrecks, temporary unavailability explained).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 2,
+   "guide": "Finish Billy's five-quest strand at Thrillbilly Mudclub in Kelly County. The strand appears after the Chapter 2 main mission 'Coffee Break' and stays available after the story. Source: PowerPyx (Billy questline, 5 quests, after 'Coffee Break').",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "count": "8 strands",
+   "roadmap_stage": 2,
+   "guide": "Complete 8 of the open-world stranger strands. Not every side quest counts — Moses, Tyrone, Yasmani, Andy, Billy and Eddie are explicitly NOT counted as strangers for this trophy. Confirmed counters include Kirk, Kyle, Yago and Pilot Pete. All of them survive into post-story free-roam, and the trophy tracker in your trophy list shows how many you have. Source: PowerPyx (confirmed vs. non-counting strands).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 2,
+   "guide": "Finish Randy's wish-list strand. The Chapter 3 main mission 'Clonin' Keys, Makin' GS' unlocks the Key Cloner and has you deliver a sports car to Randy; he then hands you a list of 16 more. Find them anywhere — scanning or entering a car on the list pops a delivery prompt, and the WAiNK app tells you if a car is on it. Deliver in good condition for better pay. Still doable after the story. Source: PowerPyx (16-car wishlist, Key Cloner unlock).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 2,
+   "guide": "Finish Tyrone's strand, which is Jason-only. After the Chapter 3 main mission 'Here, Kitty Kitty', purple markers appear on Vice City's synthetic labs — destroy them. Once enough labs are down, Tyrone hands you 'Spin On This', and completing it unlocks the trophy. Source: PowerPyx (Jason-only, lab destruction then 'Spin On This').",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "missable": true,
+   "hidden": false,
+   "count": "18 spots across 10 locations",
+   "roadmap_stage": 1,
+   "guide": "THE missable trophy. 18 meditation spots exist across 10 locations, but the first one exists only in Chapter 1 at Jason's house: after the main mission 'Down to Earth', talk to Lucia in the kitchen in the morning, follow her to the balcony and choose 'Accept'. Whether this unmarked meditation is strictly required is still unconfirmed, so do it to be safe. The final spot needs both characters together, which unlocks after Chapter 2's 'Coffee Break'. Track under Progress → Collections → Exploration → Meditations. Source: PowerPyx (the only potentially missable trophy; 18 spots).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "roadmap_stage": 2,
+   "guide": "Complete one of Bret Vogel's target decks. His strand opens as Jason after Chapter 2's 'Coffee Break' — he texts you to meet him in Lummox County (Lucia never gets the message). There are 15 target decks and all 15 are needed for 100% completion, so this trophy comes naturally on that grind. Source: PowerPyx (Bret Vogel strand, Jason-only, 15 target decks).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "kind": "collectible",
+   "missable": false,
+   "hidden": false,
+   "count": "3 of 18 sets",
+   "roadmap_stage": 3,
+   "guide": "Complete 3 of the 18 collectible-card sets hidden around Leonida. The 100% checklist only asks for 15 of 18 sets, so the trophy's 3 is a gentle introduction — pick up card sets as you explore and the rest fill in during cleanup. Source: PowerPyx (18 card sets).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "kind": "collectible",
+   "missable": false,
+   "hidden": false,
+   "count": "100 locations",
+   "roadmap_stage": 3,
+   "guide": "Scan 100 locations with the WAiNK It app (hold the app and scan objects in the world). More than 100 exist, so any 100 count — they break down into landmarks, curiosities, sculptures and utility tags. Scanning landmarks as you unfog the map covers most of it; the 100% checklist needs exactly 100 too. Source: PowerPyx (scan categories).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": false,
+   "count": "50 of 80 challenges",
+   "roadmap_stage": 3,
+   "guide": "Complete 50 of the 80 challenges. The 100% checklist needs 70 of 80, so this unlocks on the way there — leave it for late in the game, when most challenges have finished themselves and you can pick the easiest of the rest. Track them under Progress → Challenges. Source: PowerPyx (80 challenges, 70 needed for 100%).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "Reach a 4-star wanted level with your partner, then escape the red 'heat' zone. Partner free-roam unlocks after Chapter 2's 'Coffee Break'. Chances are you never farm this: the bank-vault robberies — all 8 vaults are mandatory for 100% — always trigger 4-star levels, so it pops on its own. Source: PowerPyx (unlock timing, automatic unlock via bank vaults).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": false,
+   "count": "3 shops in a row",
+   "roadmap_stage": 4,
+   "guide": "Hit 3 robbery targets in a row with your partner while the wanted level never clears. Only possible after Chapter 2's 'Coffee Break'. Gear up first — armor vest, sticky bombs, healing — then loot each store thoroughly. The unlock is delayed about half a minute after the third shop; if nothing pops, hit a fourth. Source: PowerPyx (method, delayed unlock, 4th-shop tip).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "missable": false,
+   "hidden": false,
+   "count": "100 of 557 vehicles",
+   "roadmap_stage": 3,
+   "guide": "Discover 100 vehicles — scanning them with the WAiNK app is enough, you never need to drive them. Stand on a busy road and scan everything that passes, including boats and aircraft. The 100% checklist needs 200 of the 277 base models, so the trophy's 100 happens long before that. Check totals under Progress → Vehicles. Source: PowerPyx (557 vehicles, WAiNK scanning).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": false,
+   "count": "5 enemies in one Combat Focus",
+   "roadmap_stage": 4,
+   "guide": "Kill 5 enemies during a single Combat Focus activation — the slow-time mode, which drains the purple focus bar in seconds. Prep matters: buff focus with food and drinks, pop Adrenaline to extend the bar, and use a full-auto rifle on a gang operation's criminals (it does not work on soldiers, police or civilians). Focus levels up through shooting ranges and headshots, so this gets easier the longer you play. Source: PowerPyx (Combat Focus mechanics, prep strategy).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "Steal one of the large passenger planes parked at a VCIA departure gate — the ones standing on the airfield don't count, it must be one attached to a boarding bridge. Taxi out, take off and fly about 1 km from the airport. The plane at terminal E3/E4 is the easiest: drive through the airfield fence straight to it. Source: PowerPyx (E3/E4 gate method, 1 km distance).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "Steal a Rhino tank and defeat enemies with it. The tanks sit at Mile Zero Air Station, the island at the south-west edge of the map in Mariana County — drive through the gate or use the stunt jump by the south-east entrance, climb in, and start shooting. Source: PowerPyx (Mile Zero Air Station location).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": false,
+   "roadmap_stage": 4,
+   "guide": "Rob a jewelry store without triggering the alarm. First finish the Chapter 3 main mission 'Yasmani's Jewelry Jobs' — it unlocks both jewelry-store robberies and the Snap Gun, which silently lockpicks alarmed back doors. Enter through the back, loot the safe, then destroy the security footage and disable the alarm panel. Source: PowerPyx (Snap Gun unlock, stealth steps).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "kind": "crime",
+   "missable": false,
+   "hidden": false,
+   "count": "5 of 8 vaults",
+   "roadmap_stage": 4,
+   "guide": "Rob 5 of the 8 large bank vaults and get away. Vault robberies open with the Chapter 4 mission 'That's Where The Money Is': tail a security van to the bank, slip in while the guard opens the vault, and hand bags to your partner (you can't carry them all). Afterward, Yasmani sells security-van tips for $10,000 if you've done his earlier jobs. Every vault hit triggers a 4-star level — a fast bike, then a vehicle switch or Pay 'n' Spray, shakes the heat. All 8 vaults are required for 100%, so the trophy's 5 comes naturally, and at up to $205,000 a vault it is also the best money-maker in the endgame. Source: PowerPyx (8 vaults, unlock mission, escape tips); Leonida Interactive (all 8 for 100%).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": false,
+   "roadmap_stage": 4,
+   "guide": "Rob an armored truck and escape the red heat radius. You will get this without trying: the Chapter 4 mission 'That's Where The Money Is' — the same one that unlocks bank vaults — has you tail an armored truck to a bank, and robbing that vault counts as the blitz play. Source: PowerPyx (automatic via Chapter 4 mission).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "kind": "collectible",
+   "missable": false,
+   "hidden": false,
+   "count": "whole map unfogged",
+   "roadmap_stage": 3,
+   "guide": "Fully unfog the map — every black region of Leonida has to be visited. The fast way is a plane: fly a slow circuit over the whole map and the fog clears beneath you. Do this early and every other collectible hunt gets easier, since unfogging also marks activities and robbery icons. Source: PowerPyx (unfog by plane).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": false,
+   "count": "9 gangs, 39 operations",
+   "roadmap_stage": 4,
+   "guide": "Rob one illegal operation for each of the 9 gangs — only one per gang, though 39 operations exist and all 39 are required for 100% completion, so this unlocks itself on that grind. Operations show as yellow icons as you near them; track per-gang counts under Progress → Gangs. Source: PowerPyx (9 gangs, 39 operations).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "kind": "special",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "Go to the Ocean View Rooftop Bar on Ocean Beach, buy an Apple Martini, and drink it while standing next to the bar. The trophy pops from the drink itself — no further trigger to chase. Source: PowerPyx (Ocean View Rooftop Bar, Apple Martini).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "Steal the blue Banshee from the vehicle showroom in southern Vice City and drive it straight through the showroom window. You need the Key Cloner first, from the Chapter 3 main mission 'Clonin' Keys, Makin' GS' — the car is otherwise unstealable. Only this specific blue Banshee works: it is an Easter egg nod to the Banshee of Grand Theft Auto III. Source: PowerPyx (blue Banshee, Key Cloner, GTA III reference).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "At Kingpin Bowling — a gang operation in Port Gellhorn marked automatically during Chapter 2 — grab all three key valuables: the luxury watch (south-east office), the unique Gutterball Moreland 850 shotgun (north-east table) and the safe contents (code 0300, or sticky bombs). The trophy pops after you escape the police, not on the third item. You can split this across visits — the robbery icon respawns, so it is not missable. Source: PowerPyx (3 valuables, safe code, respawn); Leonida Interactive (three key valuables).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "kind": "activity",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "Max out the Strength stat on both Jason and Lucia at the same time. Working out is the way — buy a fitness-club membership and always bring your partner: after Chapter 2's 'Coffee Break' you can call them, and while one character trains the other gains too, doubling every session. Check levels under Touchpad → Jason & Lucia → Strength. Source: PowerPyx (partner workout doubling).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "Leonida Interactive",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "kind": "special",
+   "missable": false,
+   "hidden": true,
+   "count": "500 profile actions",
+   "roadmap_stage": 4,
+   "guide": "Perform 500 actions that affect your criminal profile — every robbery finished clean or loud, every enemy spared or killed, every piece of evidence destroyed counts. Turn on Criminal Profile notifications (Settings → UI → HUD Notifications) and each one shows a ping. This accumulates naturally across a full playthrough. One warning: the Irredeemable profile is permanent and makes cops shoot on sight, so don't chase it. Source: PowerPyx (500 actions, profile tiers, Irredeemable warning).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "kind": "crime",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "Recreate the prologue: Lucia robbed a Payday Loans store before the story began, and this trophy is for robbing that same store again. After Chapter 3's 'Credit Check' (which unlocks Payday Loans robberies), go alone as Lucia — no Jason — to the Payday Loans in Little Cuba. Hold up the teller, empty the cash drawers, then escape ON FOOT; driving away does not count. Source: PowerPyx (Little Cuba store, solo Lucia, on-foot escape).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "kind": "special",
+   "missable": false,
+   "hidden": true,
+   "roadmap_stage": 4,
+   "guide": "The UFO Easter egg. Go solo, at night after 2 AM, to the road north-west of Starlet Motel in Kelly County. Look for a blinking car at the roadside — the spawn is random, so drive away and come back until one appears. Follow the path from the car into the woods to the UFO, let it drop the woman it abducted, talk to her and offer help, then walk her back to her car. Source: PowerPyx (UFO Easter egg steps).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "kind": "special",
+   "missable": false,
+   "hidden": true,
+   "count": "10 kicks in 60 seconds",
+   "roadmap_stage": 4,
+   "guide": "From a moving bike, kick 10 pedestrians within 60 seconds. Crowded streets — Vice City downtown or the Ocean Beach strip — give you a steady stream of targets; a slow bike makes the kicks connect. Source: PowerPyx (bike kick method, 60-second window).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "kind": "economy",
+   "missable": false,
+   "hidden": false,
+   "count": "$250,000 total",
+   "roadmap_stage": 5,
+   "guide": "Deliver $250,000 of marked bills to fences in total — not at once. Marked bills come from robbing banks and Payday Loans stores, and laundering needs the Dye Pack Jammer from Chapter 3's 'Credit Check'. Because all 8 bank vaults are mandatory for 100% completion and each yields up to $205,000, the $250,000 total arrives on its own during that grind. Source: PowerPyx (Dye Pack Jammer, fences, vault payouts).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "kind": "economy",
+   "missable": false,
+   "hidden": false,
+   "count": "$100,000 total",
+   "roadmap_stage": 5,
+   "guide": "Spend $100,000 across shops of any kind — the total is what counts, not one spree. Guns, vehicle mods and tattoos are the fastest drains on a wallet: the map carries 24 Ammu-Nations, 14 mod shops, 19 Pay 'n' Sprays, 67 clothing stores, 17 footwear stores, 18 salons, 11 tattoo studios and 15 electronics stores. Source: PowerPyx (shop types and counts).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "kind": "economy",
+   "missable": false,
+   "hidden": false,
+   "count": "8 purchasable garages, ~$160,000",
+   "roadmap_stage": 5,
+   "guide": "Buy all 8 purchasable garages — about $160,000 in total (the 4 story garages don't count). After the Chapter 2 main mission 'Daily Driver', the Vice City Real Estate app installs on your phone and lists them for sale. Robberies fund it fastest. Garages are also prerequisites for On the Spot, since each adds registration slots. Source: PowerPyx (8 garages, real-estate app).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "kind": "economy",
+   "missable": false,
+   "hidden": false,
+   "count": "10 vehicles",
+   "roadmap_stage": 5,
+   "guide": "Register 10 stolen vehicles through the Scooter Bros app, which installs during Chapter 2 when you deliver a vehicle to Moses. You need garage space first — every garage adds registration slots (see Little Boxes). Drive a stolen car to Moses's garage in Port Gellhorn, choose 'Respray' then 'Register'. At first he only takes tracker-free cars; from Chapter 3, standard-tracker cars work too and any Pay 'n' Spray can register them. Source: PowerPyx (Moses unlock, garage dependency, tracker rules).",
+   "sources": [
+    "PowerPyx trophy guide",
+    "PlayStation official description"
+   ]
+  }
+ ]
+}

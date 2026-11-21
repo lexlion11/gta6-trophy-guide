@@ -1,5 +1,6 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 900 }, "note": "cover: checklist with trophies, progress bar, filters" },
+  { "file": "2-guide.jpg", "path": "/#/trophy/28", "viewport": { "width": 1280, "height": 900 }, "note": "missable trophy guide open with sources" },
+  { "file": "3-roadmap.jpg", "path": "/#/roadmap", "viewport": { "width": 1280, "height": 900 }, "note": "platinum roadmap stages" },
+  { "file": "4-filters.jpg", "path": "/", "viewport": { "width": 1280, "height": 900 }, "note": "kind filter + spoiler setting at work", "filter": "kind=missable" }
 ]

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GTA VI Trophy Guide &amp; Tracker — Leonida Legends</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="sunset" aria-hidden="true"></div>
+<header>
+  <div class="brand">
+    <h1>Leonida Legends</h1>
+    <p class="tagline">Grand Theft Auto VI · PS5 trophy guide &amp; tracker · 55 trophies · fully offline</p>
+  </div>
+  <div class="progress-wrap">
+    <div class="progress-num"><span id="earnedCount">0</span> / 55 earned</div>
+    <div class="progress-bar"><div id="progressFill" class="progress-fill"></div></div>
+    <div class="grade-tally" id="gradeTally"></div>
+  </div>
+</header>
+
+<nav class="controls" aria-label="Tracker controls">
+  <label class="field search-field">
+    <span class="field-label">Search</span>
+    <input id="search" type="search" placeholder="Name, description, guide…" autocomplete="off">
+  </label>
+  <label class="field">
+    <span class="field-label">Kind</span>
+    <select id="kindFilter">
+      <option value="all">All kinds</option>
+      <option value="story">Story</option>
+      <option value="activity">Activities &amp; side quests</option>
+      <option value="collectible">Collectibles</option>
+      <option value="crime">Crime &amp; robberies</option>
+      <option value="economy">Economy</option>
+      <option value="special">Special / Easter eggs</option>
+      <option value="completion">Completion</option>
+      <option value="missable">⚠ Missable only</option>
+    </select>
+  </label>
+  <label class="field">
+    <span class="field-label">Grade</span>
+    <select id="gradeFilter">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <label class="field">
+    <span class="field-label">Sort</span>
+    <select id="sortMode">
+      <option value="roadmap">Roadmap order</option>
+      <option value="grade">Grade</option>
+      <option value="name">Name A–Z</option>
+    </select>
+  </label>
+  <label class="toggle">
+    <input id="hideEarned" type="checkbox">
+    <span>Hide earned</span>
+  </label>
+  <label class="toggle">
+    <input id="spoilerToggle" type="checkbox" checked>
+    <span>Story spoilers <b>hidden</b> until earned</span>
+  </label>
+  <div class="actions">
+    <button id="roadmapBtn" type="button" class="btn btn-accent">Platinum roadmap</button>
+    <button id="exportBtn" type="button" class="btn">Export progress</button>
+    <label class="btn import-btn">Import progress<input id="importFile" type="file" accept="application/json,.json"></label>
+    <button id="resetBtn" type="button" class="btn btn-ghost">Reset</button>
+  </div>
+</nav>
+
+<main>
+  <section id="trophyBoard" class="board" aria-label="Trophy checklist"></section>
+
+  <aside id="detailPanel" class="detail" hidden aria-label="Trophy guide">
+    <button id="closeDetail" type="button" class="btn btn-ghost detail-close">✕ Close</button>
+    <div id="detailBody"></div>
+  </aside>
+
+  <section id="roadmapPanel" class="roadmap" hidden aria-label="Roadmap to platinum">
+    <button id="closeRoadmap" type="button" class="btn btn-ghost detail-close">✕ Close</button>
+    <h2>Roadmap to Platinum — <span class="neon">Vice Got a Price!</span></h2>
+    <p class="roadmap-note">Built from the official trophy descriptions and the community guides cited per trophy. One playthrough of the five-chapter story, then free-roam cleanup — only one trophy (Positive Mental Attitude) can be missed, so watch the Chapter 1 meditation.</p>
+    <ol id="roadmapList"></ol>
+  </section>
+
+  <p id="emptyState" class="empty" hidden>No trophies match these filters.</p>
+</main>
+
+<footer>
+  <p>Guides written for this entry in our own words, citing their sources per trophy · Data: <span class="neon">app/data/trophies.json</span> · Progress saved in your browser only · No network, no artwork — the look is our own homage to a Vice City sunset.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
